@@ -479,52 +479,7 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
     <script>
-        // Sample events data (this would typically be loaded from events.json)
-        const eventsData = [
-            {
-                name: "Dożynki Mazowieckie",
-                date: "2025-09-15",
-                link: "https://facebook.com/events/dozynki-mazowieckie",
-                coordinates: [52.2297, 21.0122],
-                location: "Warszawa"
-            },
-            {
-                name: "Festiwal Ziemniaka",
-                date: "2025-09-20",
-                link: "https://facebook.com/events/festiwal-ziemniaka",
-                coordinates: [50.0647, 19.9450],
-                location: "Kraków"
-            },
-            {
-                name: "Święto Śliwki",
-                date: "2025-09-25",
-                link: "https://facebook.com/events/sliwkowe-swieto",
-                coordinates: [51.1079, 17.0385],
-                location: "Wrocław"
-            },
-            {
-                name: "Jarmark Jesienny",
-                date: "2025-10-08",
-                link: "https://facebook.com/events/jarmark-jesienny",
-                coordinates: [54.3520, 18.6466],
-                location: "Gdańsk"
-            },
-            {
-                name: "Festiwal Miodu",
-                date: "2025-10-15",
-                link: "https://facebook.com/events/festiwal-miodu",
-                coordinates: [51.7592, 19.4560],
-                location: "Łódź"
-            },
-            {
-                name: "Dzień Dyni",
-                date: "2025-10-31",
-                link: "https://facebook.com/events/dzien-dyni",
-                coordinates: [52.4069, 16.9299],
-                location: "Poznań"
-            }
-        ];
-
+        let eventsData = [];
         let currentDate = new Date();
         let currentView = 'month';
         let map;
@@ -831,4 +786,5 @@ Email kontaktowy: ${formData.email}
         window.onload = initializeApp;
     </script>
 </body>
+
 </html>
