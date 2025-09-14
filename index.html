@@ -494,7 +494,7 @@
 
         async function loadEventsData() {
             try {
-                const response = await fetch('events.json');
+                const response = await fetch(`events.json?ts=${Date.now()}`, { cache: "no-store" });
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
@@ -788,3 +788,4 @@ Email kontaktowy: ${formData.email}
 </body>
 
 </html>
+
