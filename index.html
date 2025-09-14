@@ -248,11 +248,18 @@
             padding: 30px;
             border-radius: 15px;
             width: 90%;
-            max-width: 500px;
+            max-width: 900px;
             max-height: 80%;
             overflow-y: auto;
             box-shadow: 0 20px 60px rgba(0,0,0,0.3);
             animation: slideIn 0.3s ease;
+        }
+
+        .modal-header {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 10px;
         }
 
         @keyframes slideIn {
@@ -655,7 +662,7 @@
                 day: 'numeric'
             });
 
-            let content = `<h3>Wydarzenia w dniu: ${dateStr}</h3>`;
+            let content = `<div id="modal-header">${dateStr}</div>`;
             
             events.forEach(event => {
                 content += `
@@ -788,4 +795,5 @@ Email kontaktowy: ${formData.email}
 </body>
 
 </html>
+
 
