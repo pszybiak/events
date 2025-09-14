@@ -444,30 +444,30 @@
                 <div class="form-row">
                     <div class="form-group">
                         <label for="eventName">Nazwa wydarzenia *</label>
-                        <input type="text" id="eventName" required>
+                        <input type="text" id="eventName" name="eventName" required>
                     </div>
                     <div class="form-group">
                         <label for="eventDate">Data wydarzenia *</label>
-                        <input type="date" id="eventDate" required>
+                        <input type="date" id="eventDate" name="eventDate" required>
                     </div>
                 </div>
                 <div class="form-row">
                     <div class="form-group">
                         <label for="eventLink">Link do wydarzenia</label>
-                        <input type="url" id="eventLink" placeholder="https://facebook.com/events/...">
+                        <input type="url" id="eventLink" name="eventLink" placeholder="https://facebook.com/events/...">
                     </div>
                     <div class="form-group">
                         <label for="eventLocation">Lokalizacja</label>
-                        <input type="text" id="eventLocation" placeholder="Warszawa, Plac Konstytucji">
+                        <input type="text" id="eventLocation" name="eventLocation" placeholder="Warszawa, Plac Konstytucji">
                     </div>
                 </div>
                 <div class="form-group">
                     <label for="eventDescription">Opis wydarzenia</label>
-                    <textarea id="eventDescription" placeholder="Krótki opis wydarzenia..."></textarea>
+                    <textarea id="eventDescription" name="eventDescription" placeholder="Krótki opis wydarzenia..."></textarea>
                 </div>
                 <div class="form-group">
-                    <label for="contactEmail">Twój email *</label>
-                    <input type="email" id="contactEmail" required>
+                    <label for="contactEmail">Twój email</label>
+                    <input type="email" id="contactEmail" name="contactEmail">
                 </div>
                 <button type="submit" class="submit-btn">Wyślij Zgłoszenie</button>
             </form>
@@ -795,6 +795,7 @@ Email kontaktowy: ${formData.email}
 </body>
 
 </html>
+
 
 
 
