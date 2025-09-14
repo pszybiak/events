@@ -1,146 +1,81 @@
 [
-  {
-    "id": 1,
-    "name": "Dożynki Województwa Dolnośląskiego - obchody wojewódzkie",
-    "date": "2025-08-30",
-    "location": "Wrocław / teren wydarzeń wojewódzkich",
-    "coordinates": [51.1079, 17.0385],
-    "link": "",
-    "description": "Wojewódzkie obchody dożynek z korowodem, koncertami i stoiskami rękodzieła lokalnego."
-  },
-  {
-    "id": 2,
-    "name": "Dożynki Województwa Kujawsko-Pomorskiego – obchody regionalne",
-    "date": "2025-08-24",
-    "location": "Bydgoszcz / Toruń (miejsce centralne zależne od roku)",
-    "coordinates": [53.1235, 18.0084],
-    "link": "",
-    "description": "Prezentacje wieńców, konkursy sołectw i stoiska producentów lokalnych."
-  },
-  {
-    "id": 3,
-    "name": "Dożynki Województwa Lubelskiego – Dożynki Wojewódzkie",
-    "date": "2025-09-07",
-    "location": "Janów Podlaski / powiat lubelski",
-    "coordinates": [51.6500, 23.2350],
-    "link": "https://lublin.eska.pl/dozynki-powiatowe-2025-w-woj-lubelskim",
-    "description": "Powiatowe/wiejskie obchody zakończenia żniw: msza dziękczynna, korowód, występy zespołów ludowych."
-  },
-  {
-    "id": 4,
-    "name": "Dożynki Województwa Lubuskiego – lokalne święto plonów",
-    "date": "2025-08-31",
-    "location": "Gorzów Wielkopolski / okolice",
-    "coordinates": [52.7368, 15.2288],
-    "link": "",
-    "description": "Lokalne dożynki z pokazami KGW, kiermaszami i potrawami regionalnymi."
-  },
-  {
-    "id": 5,
-    "name": "Dożynki Powiatowo–Gminne w Brzezinach (Wielkopolska)",
-    "date": "2025-09-07",
-    "location": "Brzeziny, powiat kaliski (Wielkopolskie)",
-    "coordinates": [51.7500, 18.0850],
-    "link": "https://www.powiat.kalisz.pl/a%2C4378%2Cdozynki-powiatowogminne-w-brzezinach-7-wrzesnia-2025-r",
-    "description": "Dożynki powiatowo-gminne z gwiazdą wieczoru, pokazami kulinarnymi i tradycyjnym korowodem."
-  },
-  {
-    "id": 6,
-    "name": "Dożynki Województwa Małopolskiego – Zbylitowska Góra (Dożynki Wojewódzkie)",
-    "date": "2025-08-24",
-    "location": "Zbylitowska Góra (gm. Tarnów)",
-    "coordinates": [50.0350, 20.9420],
-    "link": "https://www.malopolska.pl/aktualnosci/samorzad/xxvii-dozynki-wojewodztwa-malopolskiego-w-zbylitowskiej-gorze-za-nami",
-    "description": "Wojewódzkie dożynki: konkurs na najpiękniejszy wieniec dożynkowy, koncerty, kiermasz produktów regionalnych."
-  },
-  {
-    "id": 7,
-    "name": "Dożynki Województwa Mazowieckiego – Płońsk (Święto Plonów)",
-    "date": "2025-08-31",
-    "location": "Płońsk (Mazowieckie)",
-    "coordinates": [52.6270, 20.3748],
-    "link": "https://mazovia.pl/pl/rolnictwo/aktualnosci/dozynki-wojewodztwa-mazowieckiego-2025.html",
-    "description": "Wojewódzkie obchody Dożynek z pokazami wieńców, stoiskami rolniczymi i programem artystycznym."
-  },
-  {
-    "id": 8,
-    "name": "Dożynki Województwa Opolskiego – obchody powiatowe/wojewódzkie",
-    "date": "2025-08-30",
-    "location": "Opole / powiat opolski",
-    "coordinates": [50.6751, 17.9213],
-    "link": "",
-    "description": "Regionalne święto plonów z przeglądem zespołów folklorystycznych i degustacją lokalnych potraw."
-  },
-  {
-    "id": 9,
-    "name": "Dożynki Województwa Podkarpackiego – lokalne obchody",
-    "date": "2025-08-24",
-    "location": "Rzeszów / okolice",
-    "coordinates": [50.0413, 21.9990],
-    "link": "",
-    "description": "Tradycyjne podkarpackie dożynki z korowodem i występami zespołów regionalnych."
-  },
-  {
-    "id": 10,
-    "name": "Dożynki Województwa Podlaskiego – Mały Płock (regionalne)",
-    "date": "2025-09-14",
-    "location": "Mały Płock (Podlaskie)",
-    "coordinates": [53.3039, 22.0284],
-    "link": "https://radio.bialystok.pl/wiadomosci/index/id/253761",
-    "description": "Wojewódzkie/powiatowe obchody dożynek: konkursy, wystawy i degustacje lokalnych produktów."
-  },
-  {
-    "id": 11,
-    "name": "Pomorskie Święto Plonów – Dożynki Wojewódzkie (Pszczółki / okolice)",
-    "date": "2025-09-13",
-    "location": "Pszczółki (Pomorskie)",
-    "coordinates": [54.1679, 18.6888],
-    "link": "https://pomorskieswietoplonow.pl/",
-    "description": "Finał wojewódzkiego konkursu wieńców, prezentacje powiatów, koncerty i stoiska z lokalnymi produktami."
-  },
-  {
-    "id": 12,
-    "name": "Dożynki Województwa Śląskiego – Woźniki (Dożynki Wojewódzkie)",
-    "date": "2025-08-31",
-    "location": "Woźniki (Śląskie)",
-    "coordinates": [50.5320, 18.8740],
-    "link": "https://dziennikzachodni.pl/dozynki-2025-w-wojewodztwie-slaskim-oto-programy-obchodow-w-poszczegolnych-gminach/ar/c13p2-27891151",
-    "description": "Wojewódzkie obchody z mszą dziękczynną, korowodem i prezentacjami wieńców dożynkowych."
-  },
-  {
-    "id": 13,
-    "name": "Dożynki Województwa Świętokrzyskiego – obchody regionalne",
-    "date": "2025-08-24",
-    "location": "Kielce / powiat kielecki",
-    "coordinates": [50.8661, 20.6286],
-    "link": "",
-    "description": "Świętokrzyskie dożynki: występy zespołów ludowych, kiermasz produktów lokalnych i konkursy wieńców."
-  },
-  {
-    "id": 14,
-    "name": "Dożynki Województwa Warmińsko-Mazurskiego – obchody lokalne",
-    "date": "2025-08-31",
-    "location": "Olsztyn / okolice",
-    "coordinates": [53.7784, 20.4801],
-    "link": "",
-    "description": "Regionalne święto plonów z prezentacjami produktu lokalnego i występami folklorystycznymi."
-  },
-  {
-    "id": 15,
-    "name": "Dożynki Województwa Wielkopolskiego – cykl dożynek subregionalnych (m.in. Głogówek, Otusz, itp.)",
-    "date": "2025-08-15",
-    "location": "różne miejscowości w Wielkopolsce (m.in. Głogówek, Otusz)",
-    "coordinates": [52.4064, 16.9252],
-    "link": "https://www.umww.pl/dozynki-po-wielkopolsku",
-    "description": "Seria dożynek subregionalnych dofinansowanych przez samorząd województwa: prezentacje, konkursy, koncerty."
-  },
-  {
-    "id": 16,
-    "name": "Dożynki Województwa Zachodniopomorskiego – obchody regionalne",
-    "date": "2025-08-30",
-    "location": "Szczecin / okolice",
-    "coordinates": [53.4285, 14.5528],
-    "link": "",
-    "description": "Zachodniopomorskie obchody dożynek z występami lokalnych zespołów i stoiskami kulinarnymi."
-  }
+  {"id":1,"name":"Dożynki Gminne - Wrocław (miejska inicjatywa)","date":"2025-08-30","location":"Wrocław","coordinates":[51.107885,17.038538],"link":"https://wroclaw.pl/wybrane-wydarzenia/dozynki-gminne-2025","description":"Miejskie obchody zakończenia żniw: korowód, stoiska lokalnych producentów i program artystyczny."},
+  {"id":2,"name":"Dożynki Powiatowe - Środa Śląska","date":"2025-08-24","location":"Środa Śląska","coordinates":[51.1629,16.5932],"link":"","description":"Powiatowe święto plonów z konkursami na najpiękniejszy wieniec i występami zespołów ludowych."},
+  {"id":3,"name":"Dożynki Gminy Kobierzyce","date":"2025-08-31","location":"Kobierzyce","coordinates":[51.0058,16.9856],"link":"","description":"Lokalne dożynki gminne z pokazami KGW i degustacjami potraw regionalnych."},
+  {"id":4,"name":"Dożynki Sołeckie - Ząbkowice Śląskie","date":"2025-09-07","location":"Ząbkowice Śląskie","coordinates":[50.5899,16.8129],"link":"","description":"Dożynki sołeckie z ludowymi obrzędami i koncertami lokalnych kapel."},
+
+  {"id":5,"name":"Dożynki Gminne - Bydgoszcz/Toruń (kalendarz wojewódzki)","date":"2025-08-24","location":"Bydgoszcz","coordinates":[53.1235,18.0084],"link":"","description":"Prezentacje wieńców, konkursy sołectw i stoiska producentów lokalnych (kalendarz regionalny Kuj.-Pom.)."},
+  {"id":6,"name":"Dożynki Powiatu Inowrocław - Rojewo","date":"2025-08-31","location":"Rojewo","coordinates":[52.9000,18.2000],"link":"","description":"Powiatowe obchody z korowodem i programem artystycznym."},
+  {"id":7,"name":"Dożynki Gminy Solec Kujawski","date":"2025-09-06","location":"Solec Kujawski","coordinates":[53.0600,18.2950],"link":"","description":"Gminne święto plonów z konkursem na najpiękniejszy wieniec."},
+  {"id":8,"name":"Dożynki Sołeckie - Gmina Lipno","date":"2025-08-17","location":"Lipno","coordinates":[52.8466,19.1786],"link":"","description":"Lokalne obchody z występami miejscowych zespołów i stoiskami rękodzieła."},
+
+  {"id":9,"name":"Dożynki Województwa Lubelskiego - Janów Podlaski (reprezent.)","date":"2025-09-07","location":"Janów Podlaski","coordinates":[51.6500,23.2350],"link":"https://lublin.eska.pl/dozynki-powiatowe-2025-w-woj-lubelskim","description":"Wojewódzkie/powiatowe obchody zakończenia żniw: msza, korowód i występy zespołów ludowych."},
+  {"id":10,"name":"Dożynki Gminne - Gmina Żyrzyn","date":"2025-08-24","location":"Żyrzyn","coordinates":[51.4866,22.3144],"link":"","description":"Gminne obchody z konkursem wieńców i degustacją lokalnych produktów."},
+  {"id":11,"name":"Dożynki Powiatu Puławy","date":"2025-08-30","location":"Puławy","coordinates":[51.4155,21.9693],"link":"https://www.kurow.eu/wydarzenie-163-dozynki_powiatowe_2025-szczegoly-5575.html","description":"Powiatowe święto z programem artystycznym i pokazami rzemiosła."},
+  {"id":12,"name":"Święto Plonów - Gmina Wąwolnica","date":"2025-09-14","location":"Wąwolnica","coordinates":[51.2500,22.1167],"link":"","description":"Lokalne święto plonów z wystawami i kiermaszami produktów regionalnych."},
+
+  {"id":13,"name":"Dożynki Województwa Lubuskiego - Gorzów/region","date":"2025-08-31","location":"Gorzów Wielkopolski","coordinates":[52.7368,15.2288],"link":"","description":"Regionalne obchody z pokazami KGW, koncertami i kiermaszami."},
+  {"id":14,"name":"Dożynki Gminne - Sulechów","date":"2025-08-23","location":"Sulechów","coordinates":[52.0833,15.6167],"link":"","description":"Gminne dożynki ze stoiskiem lokalnych producentów i występami folklorystycznymi."},
+  {"id":15,"name":"Dożynki Powiatowe - Międzyrzecz","date":"2025-09-06","location":"Międzyrzecz","coordinates":[52.4444,15.5765],"link":"","description":"Powiatowe obchody plonów z programem artystycznym i pokazami tradycji."},
+  {"id":16,"name":"Dożynki Sołeckie - Gmina Krosno Odrzańskie","date":"2025-08-17","location":"Krosno Odrzańskie","coordinates":[52.0558,15.1039],"link":"","description":"Małe, lokalne święto plonów z korowodem i poczęstunkiem."},
+
+  {"id":17,"name":"Dożynki Powiatowo–Gminne - Brzeziny (Wielkopolska)","date":"2025-09-07","location":"Brzeziny (pow. kaliski)","coordinates":[51.7500,18.0850],"link":"https://www.powiat.kalisz.pl/a%2C4378%2Cdozynki-powiatowogminne-w-brzezinach-7-wrzesnia-2025-r","description":"Dożynki powiatowo-gminne z gwiazdą wieczoru i pokazami kulinarnymi."},
+  {"id":18,"name":"Dożynki Gminne - Gmina Otusz","date":"2025-08-15","location":"Otusz","coordinates":[52.0000,16.2000],"link":"","description":"Lokalne obchody z prezentacją wieńców i występami zespołów."},
+  {"id":19,"name":"Dożynki Miejskie - Poznań (Święto Chleba)","date":"2025-09-06","location":"Poznań","coordinates":[52.4064,16.9252],"link":"https://wiadomosci.radiozet.pl/poznan/swieto-plonow-juz-6-wrzesnia-w-poznaniu-dozynki-polaczono-z-innym-wydarzeniem","description":"Miejska uroczystość dożynkowa połączona ze Świętem Chleba – koncerty i stoiska lokalne."},
+  {"id":20,"name":"Dożynki Gminne - Gmina Kaliszanka","date":"2025-08-24","location":"Kaliszanka","coordinates":[51.7833,18.1000],"link":"","description":"Tradycyjne gminne dożynki z korowodem i konkursami."},
+
+  {"id":21,"name":"Dożynki Województwa Małopolskiego - Zbylitowska Góra","date":"2025-08-24","location":"Zbylitowska Góra (gm. Tarnów)","coordinates":[50.0350,20.9420],"link":"https://www.malopolska.pl/aktualnosci/samorzad/xxvii-dozynki-wojewodztwa-malopolskiego-w-zbylitowskiej-gorze-za-nami","description":"Wojewódzkie dożynki: konkurs na wieniec, koncerty i kiermasz produktów regionalnych."},
+  {"id":22,"name":"Dożynki Gminne - Gmina Bochnia","date":"2025-08-16","location":"Bochnia","coordinates":[49.9691,20.4302],"link":"","description":"Lokalne święto plonów z programem folklorystycznym i atrakcjami dla familij."},
+  {"id":23,"name":"Dożynki Powiatowe - Wieliczka","date":"2025-09-07","location":"Wieliczka","coordinates":[49.9879,20.0650],"link":"","description":"Powiatowe obchody z wystawami rękodzieła i prezentacją wieńców."},
+  {"id":24,"name":"Dożynki Sołeckie - Gmina Chełm","date":"2025-09-14","location":"Chełm (okolice)","coordinates":[51.1431,23.4715],"link":"","description":"Małe, tradycyjne święto plonów z obrzędem dożynkowym."},
+
+  {"id":25,"name":"Dożynki Województwa Mazowieckiego - Płońsk (reprezent.)","date":"2025-08-31","location":"Płońsk","coordinates":[52.6270,20.3748],"link":"https://mazovia.pl/pl/rolnictwo/aktualnosci/dozynki-wojewodztwa-mazowieckiego-2025.html","description":"Wojewódzkie obchody z pokazami wieńców, stoiskami rolniczymi i programem artystycznym."},
+  {"id":26,"name":"Dożynki Gminne - Sochaczew","date":"2025-09-07","location":"Sochaczew","coordinates":[52.2296,20.2389],"link":"https://sochaczew.org.pl/wydarzenie/14/2562/dozynki-gminne-2025-zapraszamy-do-udzialu-w-swiecie-plonow","description":"Gminne obchody z mszą, korowodem i koncertami."},
+  {"id":27,"name":"Dożynki Powiatowe - Mińsk Mazowiecki","date":"2025-08-24","location":"Mińsk Mazowiecki","coordinates":[52.1796,21.5724],"link":"","description":"Powiatowe dożynki z prezentacją wieńców i atrakcjami dla dzieci."},
+  {"id":28,"name":"Święto Chleba i Dożynki - Warszawa (wydarzenia lokalne)","date":"2025-09-13","location":"Warszawa","coordinates":[52.2297,21.0122],"link":"https://www.prezydent.pl/aktualnosci/inicjatywy/dozynki-prezydenckie/dozynki-2025-r","description":"Dożynki prezydenckie i miejskie inicjatywy związane ze świętem plonów."},
+
+  {"id":29,"name":"Dożynki Województwa Opolskiego - Opole (reprezent.)","date":"2025-08-30","location":"Opole","coordinates":[50.6751,17.9213],"link":"","description":"Regionalne święto plonów z przeglądem zespołów folklorystycznych i degustacją potraw."},
+  {"id":30,"name":"Dożynki Gminne - Głuchołazy","date":"2025-09-06","location":"Głuchołazy","coordinates":[50.2863,17.3336],"link":"","description":"Gminne obchody z koncertami i pokazami rękodzieła."},
+  {"id":31,"name":"Dożynki Powiatowe - Kędzierzyn-Koźle","date":"2025-08-24","location":"Kędzierzyn-Koźle","coordinates":[50.3547,18.2269],"link":"","description":"Powiatowe uroczystości dożynkowe z prezentacją wieńców i stoiskami lokalnymi."},
+  {"id":32,"name":"Dożynki Sołeckie - Gmina Namysłów","date":"2025-08-17","location":"Namysłów","coordinates":[51.0750,17.7222],"link":"","description":"Lokalne święto plonów z występami zespołów ludowych."},
+
+  {"id":33,"name":"Dożynki Województwa Podkarpackiego - Rzeszów (reprezent.)","date":"2025-08-24","location":"Rzeszów","coordinates":[50.0413,21.9990],"link":"","description":"Tradycyjne podkarpackie dożynki z korowodem i występami zespołów regionalnych."},
+  {"id":34,"name":"Dożynki Gminne - Przeworsk","date":"2025-09-07","location":"Przeworsk","coordinates":[50.0616,22.4952],"link":"","description":"Gminne obchody z konkursem na wieniec i stoiska kulinarne."},
+  {"id":35,"name":"Dożynki Powiatowe - Jarosław","date":"2025-08-31","location":"Jarosław","coordinates":[50.0161,22.6716],"link":"","description":"Powiatowe uroczystości dożynkowe i koncerty."},
+  {"id":36,"name":"Dożynki Sołeckie - Gmina Sanok (wieś)","date":"2025-08-16","location":"Sanok (okolice)","coordinates":[49.5700,22.2050],"link":"","description":"Małe, lokalne święto plonów z regionalnymi potrawami."},
+
+  {"id":37,"name":"Dożynki Województwa Podlaskiego - Mały Płock (reprezent.)","date":"2025-09-14","location":"Mały Płock","coordinates":[53.3039,22.0284],"link":"https://radio.bialystok.pl/wiadomosci/index/id/253761","description":"Regionalne obchody: konkursy, wystawy i degustacje lokalnych produktów."},
+  {"id":38,"name":"Dożynki Gminne - Augustów","date":"2025-08-24","location":"Augustów","coordinates":[53.8438,22.9796],"link":"","description":"Gminne święto plonów z występami i stoiskami gospodarstw lokalnych."},
+  {"id":39,"name":"Dożynki Powiatowe - Suwałki (region)","date":"2025-08-31","location":"Suwałki","coordinates":[54.1118,22.9306],"link":"","description":"Powiatowe obchody dożynek z programem folklorystycznym."},
+  {"id":40,"name":"Święto Plonów - Gmina Łomża","date":"2025-09-07","location":"Łomża","coordinates":[53.1781,22.0597],"link":"","description":"Lokalne wydarzenie z pokazami kulinarnymi i koncertami."},
+
+  {"id":41,"name":"Pomorskie Święto Plonów - Dożynki Wojewódzkie - Pszczółki","date":"2025-09-13","location":"Pszczółki","coordinates":[54.1679,18.6888],"link":"https://pomorskieswietoplonow.pl/","description":"Finał konkursu na najpiękniejszy wieniec, prezentacje powiatów, koncerty i stoiska lokalne."},
+  {"id":42,"name":"Dożynki Gminne - Skarszewy (powiat starogardzki)","date":"2025-08-23","location":"Skarszewy","coordinates":[54.0411,18.4565],"link":"https://powiatstarogard.pl/dozynki-2025","description":"Gminne obchody - korowód i lokalne występy."},
+  {"id":43,"name":"Dożynki Powiatowe - Starogard Gdański","date":"2025-08-30","location":"Starogard Gdański","coordinates":[53.9631,18.5264],"link":"","description":"Powiatowe święto plonów z targami produktów lokalnych."},
+  {"id":44,"name":"Dożynki Sołeckie - Czarna Woda","date":"2025-08-24","location":"Czarna Woda","coordinates":[53.8432,18.3215],"link":"","description":"Lokalny festyn-dożynki z występami zespołów ludowych."},
+
+  {"id":45,"name":"Dożynki Województwa Śląskiego - Woźniki (reprezent.)","date":"2025-08-31","location":"Woźniki","coordinates":[50.5320,18.8740],"link":"https://dziennikzachodni.pl/dozynki-2025-w-wojewodztwie-slaskim-oto-programy-obchodow-w-poszczegolnych-gminach/ar/c13p2-27891151","description":"Wojewódzkie obchody z mszą dziękczynną, korowodem i prezentacjami wieńców."},
+  {"id":46,"name":"Dożynki Gminne - Miasteczko Śląskie","date":"2025-09-06","location":"Miasteczko Śląskie","coordinates":[50.3696,18.7764],"link":"","description":"Gminne święto plonów z koncertami i programem dla rodzin."},
+  {"id":47,"name":"Dożynki Powiatowe - Bielsko-Biała (region)","date":"2025-08-24","location":"Bielsko-Biała","coordinates":[49.8224,19.0444],"link":"","description":"Powiatowe obchody z występami zespołów regionalnych."},
+  {"id":48,"name":"Dożynki Sołeckie - Gmina Częstochowa (wieś)","date":"2025-08-17","location":"Częstochowa (okolice)","coordinates":[50.8138,19.1203],"link":"","description":"Lokalne spotkanie plenerowe z korowodem i poczęstunkiem."},
+
+  {"id":49,"name":"Dożynki Województwa Świętokrzyskiego - Kielce (reprezent.)","date":"2025-08-24","location":"Kielce","coordinates":[50.8661,20.6286],"link":"","description":"Wojewódzkie obchody: występy zespołów ludowych i kiermasz produktów lokalnych."},
+  {"id":50,"name":"Dożynki Gminne - Busko-Zdrój","date":"2025-08-30","location":"Busko-Zdrój","coordinates":[50.4707,20.7182],"link":"","description":"Gminne święto plonów z prezentacją wieńców i koncertami."},
+  {"id":51,"name":"Dożynki Powiatowe - Starachowice","date":"2025-09-07","location":"Starachowice","coordinates":[51.0370,21.0720],"link":"","description":"Powiatowe obchody z bogatym programem artystycznym."},
+  {"id":52,"name":"Dożynki Sołeckie - Wąchock (wieś)","date":"2025-08-16","location":"Wąchock","coordinates":[51.1200,21.0230],"link":"","description":"Mniejsze, lokalne dożynki z tradycyjnymi zwyczajami."},
+
+  {"id":53,"name":"Dożynki Województwa Warmińsko-Mazurskiego - Olsztyn (reprezent.)","date":"2025-08-31","location":"Olsztyn","coordinates":[53.7784,20.4801],"link":"","description":"Regionalne święto plonów z prezentacją produktu lokalnego i występami folkloru."},
+  {"id":54,"name":"Dożynki Gminne - Mrągowo","date":"2025-08-23","location":"Mrągowo","coordinates":[53.8667,21.3000],"link":"","description":"Gminne obchody z targami lokalnych produktów i muzyką na żywo."},
+  {"id":55,"name":"Dożynki Powiatowe - Ełk (region)","date":"2025-09-06","location":"Ełk","coordinates":[53.8283,22.3648],"link":"","description":"Powiatowe uroczystości dożynkowe z prezentacjami KGW."},
+  {"id":56,"name":"Dożynki Sołeckie - Kętrzyn (okolice)","date":"2025-08-17","location":"Kętrzyn","coordinates":[54.0760,21.3750],"link":"","description":"Lokalne wydarzenie z korowodem i występami amatorskich zespołów."},
+
+  {"id":57,"name":"Dożynki Województwa Wielkopolskiego - cykl subregionalny","date":"2025-08-15","location":"różne miejscowości (Wielkopolska)","coordinates":[52.4064,16.9252],"link":"https://www.umww.pl/dozynki-po-wielkopolsku","description":"Seria dożynek w subregionach, prezentacje wieńców i lokalnych produktów."},
+  {"id":58,"name":"Dożynki Gminne - Głogów","date":"2025-08-24","location":"Głogów","coordinates":[51.6638,16.0844],"link":"","description":"Gminne obchody z występami i tradycyjnymi potrawami."},
+  {"id":59,"name":"Dożynki Powiatowe - Poznań (region)","date":"2025-09-06","location":"Poznań (powiat)","coordinates":[52.4064,16.9252],"link":"","description":"Powiatowe i miejskie wydarzenia związane ze świętem plonów."},
+  {"id":60,"name":"Dożynki Sołeckie - Gmina Śrem","date":"2025-08-30","location":"Śrem","coordinates":[52.0886,17.0156],"link":"","description":"Lokalne dożynki z pokazami rzemiosła i kiermaszem."},
+
+  {"id":61,"name":"Dożynki Województwa Zachodniopomorskiego - Szczecin (reprezent.)","date":"2025-08-30","location":"Szczecin","coordinates":[53.4285,14.5528],"link":"https://wydarzenia.wzp.pl/11180-pomorze-zachodnie-dozynki-wojewodzkie","description":"Zachodniopomorskie obchody dożynek z występami lokalnych zespołów i stoiskami kulinarnymi."},
+  {"id":62,"name":"Dożynki Gminne - Przelewice","date":"2025-09-06","location":"Przelewice","coordinates":[53.2833,14.8167],"link":"https://wydarzenia.wzp.pl/11180-pomorze-zachodnie-dozynki-wojewodzkie","description":"Lokalne obchody i targi produktów regionalnych."},
+  {"id":63,"name":"Dożynki Powiatowe - Koszalin (region)","date":"2025-09-13","location":"Koszalin","coordinates":[54.1944,16.1722],"link":"","description":"Powiatowe święto plonów z programem kulturalnym i korowodem."},
+  {"id":64,"name":"Dożynki Sołeckie - Gmina Białogard (wieś)","date":"2025-08-17","location":"Białogard","coordinates":[54.0000,15.9833],"link":"","description":"Małe, lokalne dożynki z obrzędami i poczęstunkiem."}
 ]
