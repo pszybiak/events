@@ -1,0 +1,47 @@
+[
+        {
+          "id": 1,
+          "name": "Dożynki Gminne w Wilanowie",
+          "date":: "2025-09-15",
+          "location":: "Wilanów",
+          "coordinates":: [52.1651, 21.0895],
+          "link":: "https://facebook.com/events/dozynki-wilanow",
+          "description":: "Tradycyjne święto plonów z występami folklorystycznymi i degustacją lokalnych produktów."
+        },
+        {
+          "id": 2,
+          "name": "Święto Ziemniaka",
+          "date":: "2025-09-20",
+          "location":: "Żukowo",
+          "coordinates":: [54.3333, 18.1167],
+          "link":: "https://facebook.com/events/swieto-ziemniaka",
+          "description":: "Coroczne święto poświęcone ziemniakowi z konkursami kulinarnymi."
+        },
+        {
+          "id": 3,
+          "name": "Festyn Rodzinny",
+          "date":: "2025-09-15",
+          "location":: "Konstancin-Jeziorna",
+          "coordinates":: [52.0833, 21.1167],
+          "link":: "https://facebook.com/events/festyn-konstancin",
+          "description":: "Rodzinne święto z atrakcjami dla dzieci i dorosłych."
+        },
+        {
+          "id": 4,
+          "name": "Jarmark Świętojański",
+          "date":: "2025-10-10",
+          "location":: "Poznań",
+          "coordinates":: [52.4064, 16.9252],
+          "link":: "https://facebook.com/events/jarmark-poznan",
+          "description":: "Tradycyjny jarmark z rękodziełem i regionalnymi przysmakami."
+        },
+        {
+          "id": 5,
+          "name": "Dni Miasta",
+          "date":: "2025-10-25",
+          "location":: "Kraków",
+          "coordinates":: [50.0647, 19.9450],
+          "link":: "https://facebook.com/events/dni-krakowa",
+          "description":: "Święto miasta z koncertami, wystawami i pokazami artystycznymi."
+        }
+      ]
